@@ -1,8 +1,4 @@
 ---
-slug: live-translation
-portfolioIndex: 7
-name: cekrauseee/live-translation
-repositoryUrl: https://github.com/cekrauseee/live-translation
 description: >-
   Une expérience de traduction vocale en temps réel construite autour d'une
   seule session GPT-Live full-duplex.
